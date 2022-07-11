@@ -1,4 +1,4 @@
-# carousel_module
+# gridView_module
 
 A flutter app demonstrating the use of Carousel using a simple UI.
 
