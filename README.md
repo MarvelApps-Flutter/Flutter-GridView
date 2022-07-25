@@ -6,7 +6,7 @@ A flutter app demonstrating the use of GridView to display UI in grid form.
  # Demo
   <table>
   <tr>
-  <td><img src="https://github.com/MarvelApps-Flutter/flutter_gridview/blob/dev/working_demo/flutter_gridview.gif" height="480px"></td>
+  <td><img src="https://github.com/MarvelApps-Flutter/flutter_gridview/blob/dev/working_demo/gridview_module.gif" height="480px"></td>
     </tr>
   </table>
 
