@@ -1,4 +1,4 @@
-# flutter_gridview
+# Gridview Module
 
 A flutter app demonstrating the use of GridView to display UI in grid form.
 
